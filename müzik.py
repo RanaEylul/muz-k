@@ -1,5 +1,5 @@
-import spotipy
-from spotipy.oauth2 import SpotifyOAuth
+import spotify
+from spotify.oauth2 import SpotifyOAuth
 
 # Spotify Developer panelinden alacağın bilgileri buraya eklemelisin
 CLIENT_ID = "SENIN_CLIENT_ID"
